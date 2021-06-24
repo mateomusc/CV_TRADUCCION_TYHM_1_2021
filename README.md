@@ -13,4 +13,6 @@ Mi CV puede descargarse de este link.
   <p>
     El texto puede descargarse de este link.
   <p>
-    [Texto traducido]()
+    [Texto traducido](https://github.com/mateomusc/CV_TRADUCCION_TYHM_1_2021/blob/main/Traducci_n_texto_sobre_energ_as_renovables%20(6).pdf)
+    
+ <a href="https://github.com/mateomusc/CV_TRADUCCION_TYHM_1_2021/blob/main/Traducci_n_texto_sobre_energ_as_renovables%20(6).pdf"> Actualizado en Junio de 2021 </a>
